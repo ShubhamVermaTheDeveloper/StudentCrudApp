@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "Web API\\StudentWebAPI\\ASPCoreWebAPICRUD.sln",
+    "projects": [
+      "..\\..\\Web APP\\STUDENTDEMOsd\\StudentCrudApp.csproj",
+      "..\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI.csproj",
+      "ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj"
+    ]
+  }
+}
