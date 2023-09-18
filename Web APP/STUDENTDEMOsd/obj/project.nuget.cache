@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vALsOgeGiUUyWsDQanCsZtNNhliuAytQVfLU+YE0k0/cK7xVLkugLffDv+Ll/06A7kvkYS0oIDH3HmBDTqnNXA==",
+  "dgSpecHash": "mWbaHDg26Uvm/Z4d6umXxzP9dIVQ/cL1T/ksfro5j4pNRVjCNiNuvq01wvvLlTRik5GQ7DLRaVgMTBExiAGR/w==",
   "success": true,
-  "projectFilePath": "C:\\Github\\ASP App\\ASP-Web-App\\FinalProject\\Final Project2\\Web APP\\STUDENTDEMOsd\\StudentCrudApp.csproj",
+  "projectFilePath": "C:\\Github\\Student Crud App\\Web APP\\STUDENTDEMOsd\\StudentCrudApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ShubhamVerma\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ShubhamVerma\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

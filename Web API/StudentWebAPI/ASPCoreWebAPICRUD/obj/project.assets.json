@@ -2444,11 +2444,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\ASP App\\ASP-Web-App\\FinalProject\\Final Project2\\Web API\\StudentWebAPI\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj",
+      "projectUniqueName": "C:\\Github\\Student Crud App\\Web API\\StudentWebAPI\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj",
       "projectName": "ASPCoreWebAPICRUD",
-      "projectPath": "C:\\Github\\ASP App\\ASP-Web-App\\FinalProject\\Final Project2\\Web API\\StudentWebAPI\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj",
+      "projectPath": "C:\\Github\\Student Crud App\\Web API\\StudentWebAPI\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj",
       "packagesPath": "C:\\Users\\ShubhamVerma\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\ASP App\\ASP-Web-App\\FinalProject\\Final Project2\\Web API\\StudentWebAPI\\ASPCoreWebAPICRUD\\obj\\",
+      "outputPath": "C:\\Github\\Student Crud App\\Web API\\StudentWebAPI\\ASPCoreWebAPICRUD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ShubhamVerma\\AppData\\Roaming\\NuGet\\NuGet.Config",

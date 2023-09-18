@@ -40,8 +40,8 @@
 
             <div class="form-group">
                 <label asp-for="Gender" class="control-label"></label>
-                <select id="Gender" name="Gender" class="form-control">
-                    <option value="" disabled selected>Select Gender</option>
+                <select id="Gender" name="Gender" asp-for="Gender" class="form-control">
+                    <option value="Gender" id="Gender">Select Gender</option>
                     <option value="Male">Male</option>
                     <option value="Female">Female</option>
                 </select>

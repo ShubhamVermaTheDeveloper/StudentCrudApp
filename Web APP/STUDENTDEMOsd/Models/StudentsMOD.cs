@@ -27,7 +27,8 @@ namespace StudentCrudApp.Models
         public DateTime DOB { get; set; }
 
         [Required(ErrorMessage = "Please Enter a Aadhar Number.")]
-        [Range(10000000000, 999999999999, ErrorMessage = "Input valid Adhar No consist of 12 Digit")]
+        //[Range(10000000000, 999999999999, ErrorMessage = "Input valid Adhar No consist of 12 Digit")]
+        [RegularExpression(@"^\d{12}$", ErrorMessage = "Input valid Adhar No consist of 12 Digit")]
         public long AadharNo { get; set; }
 
     }

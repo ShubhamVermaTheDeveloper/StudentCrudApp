@@ -10668,11 +10668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\ASP App\\ASP-Web-App\\FinalProject\\Final Project2\\Web APP\\STUDENTDEMOsd\\StudentCrudApp.csproj",
+      "projectUniqueName": "C:\\Github\\Student Crud App\\Web APP\\STUDENTDEMOsd\\StudentCrudApp.csproj",
       "projectName": "StudentCrudApp",
-      "projectPath": "C:\\Github\\ASP App\\ASP-Web-App\\FinalProject\\Final Project2\\Web APP\\STUDENTDEMOsd\\StudentCrudApp.csproj",
+      "projectPath": "C:\\Github\\Student Crud App\\Web APP\\STUDENTDEMOsd\\StudentCrudApp.csproj",
       "packagesPath": "C:\\Users\\ShubhamVerma\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\ASP App\\ASP-Web-App\\FinalProject\\Final Project2\\Web APP\\STUDENTDEMOsd\\obj\\",
+      "outputPath": "C:\\Github\\Student Crud App\\Web APP\\STUDENTDEMOsd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ShubhamVerma\\AppData\\Roaming\\NuGet\\NuGet.Config",

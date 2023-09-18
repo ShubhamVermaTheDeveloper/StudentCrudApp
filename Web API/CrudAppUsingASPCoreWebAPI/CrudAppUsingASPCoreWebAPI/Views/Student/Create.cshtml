@@ -31,8 +31,8 @@
             </br>
             <div class="form-group">
                 <label asp-for="Gender" class="control-label"></label>
-                <select id="Gender" name="Gender" class="form-control">
-                    <option value="" disabled selected>Select Gender</option>
+                <select id="Gender" value="Gender" name="Gender" class="form-control">
+                    <option value="">Select Gender</option>
                     <option value="Male">Male</option>
                     <option value="Female">Female</option>
                 </select>
@@ -44,18 +44,20 @@
                 <input asp-for="DOB" class="form-control" />
                 <span asp-validation-for="DOB" class="text-danger"></span>
             </div>
-            <div class="form-group">v
+            </br>
+            <div class="form-group">
                 <label asp-for="AadharNo" class="control-label"></label>
                 <input asp-for="AadharNo" class="form-control" />
                 <span asp-validation-for="AadharNo" class="text-danger"></span>
             </div>
+            </br>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
-
+</br>
 <div>
     <a asp-action="Index" class="btn btn-primary">Back to List</a>
 </div>
