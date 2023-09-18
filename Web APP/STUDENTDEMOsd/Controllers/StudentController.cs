@@ -155,6 +155,23 @@ namespace StudentCrudApp.Controllers
             }
         }
 
+
+        // For perform delete functionality
+        public void DeleteStudentData(int Id)
+        {
+            using (SqlConnection connection = new SqlConnection(ConnectionStr))
+            {
+                connection.Open();
+                string SP = "SHUBHAM_STUDENT_SPDELETE";
+                using (SqlCommand command = new SqlCommand(SP, connection))
+                {
+                    command.CommandType = CommandType.StoredProcedure;
+                    command.Parameters.AddWithValue("@Id", Id);
+                    command.ExecuteNonQuery();
+                }
+            }
+        }
+
         public StudentsMOD CreateMethod(int id)    // method for create a new record
         {
             using (SqlConnection connection = new SqlConnection(ConnectionStr))
@@ -222,22 +239,5 @@ namespace StudentCrudApp.Controllers
             return StudentData;
         }
 
-
-
-        // For perform delete functionality
-        public void DeleteStudentData(int Id)
-        {
-            using (SqlConnection connection = new SqlConnection(ConnectionStr))
-            {
-                connection.Open();
-                string SP = "SHUBHAM_STUDENT_SPDELETE";
-                using (SqlCommand command = new SqlCommand(SP, connection))
-                {
-                    command.CommandType = CommandType.StoredProcedure;
-                    command.Parameters.AddWithValue("@Id", Id);
-                    command.ExecuteNonQuery();
-                }
-            }
-        }
     }
 }

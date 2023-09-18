@@ -14,36 +14,51 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Name" class="control-label"></label>
-                <input asp-for="Name" class="form-control" />
+                <input class="noNumbersInput" asp-for="Name" class="form-control" />
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
+            </br>
             <div class="form-group">
                 <label asp-for="FatherName" class="control-label"></label>
-                <input asp-for="FatherName" class="form-control" />
+                <input class="noNumbersInput" asp-for="FatherName" class="form-control" />
                 <span asp-validation-for="FatherName" class="text-danger"></span>
             </div>
+            </br>
             <div class="form-group">
                 <label asp-for="MotherName" class="control-label"></label>
-                <input asp-for="MotherName" class="form-control" />
+                <input class="noNumbersInput"  asp-for="MotherName" class="form-control" />
                 <span asp-validation-for="MotherName" class="text-danger"></span>
             </div>
+            </br>
           
-            <div class="form-group">
+          @*   <div class="form-group">
                 <label asp-for="Gender" class="control-label"></label>
-                <input asp-for="MotherName" class="form-control" />
                 <select id="Gender" name="Gender" value = "Gender" asp-for="Gender" class="form-control">
                     <option value="">Select Gender</option>
                     <option value="Male">Male</option>
                     <option value="Female">Female</option>
                 </select>
                 <span asp-validation-for="Gender" class="text-danger"></span>
+            </div> *@
+
+            <div class="form-group">
+                <label asp-for="Gender" class="control-label"></label>
+                <select id="Gender" name="Gender" asp-for="Gender" class="form-control" data-val="true" data-val-required="Please Select a Gender.">
+                    <option value="">Select Gender</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+                <span asp-validation-for="Gender" class="text-danger"></span>
             </div>
+            </br>
+
 
             <div class="form-group">
                 <label asp-for="DOB" class="control-label"></label>
                 <input asp-for="DOB" class="form-control" />
                 <span asp-validation-for="DOB" class="text-danger"></span>
             </div>
+            </br>
             <div class="form-group">
                 <label asp-for="AadharNo" class="control-label"></label>
                 <input asp-for="AadharNo" class="form-control" />
