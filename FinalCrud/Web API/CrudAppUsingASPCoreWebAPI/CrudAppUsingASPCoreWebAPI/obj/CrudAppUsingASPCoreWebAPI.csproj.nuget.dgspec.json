@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github\\Student Crud App\\Web API\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI.csproj": {}
+    "C:\\Github\\Student Crud App\\FinalCrud\\Web API\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Github\\Student Crud App\\Web API\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI.csproj": {
+    "C:\\Github\\Student Crud App\\FinalCrud\\Web API\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\Student Crud App\\Web API\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI.csproj",
+        "projectUniqueName": "C:\\Github\\Student Crud App\\FinalCrud\\Web API\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI.csproj",
         "projectName": "CrudAppUsingASPCoreWebAPI",
-        "projectPath": "C:\\Github\\Student Crud App\\Web API\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI.csproj",
+        "projectPath": "C:\\Github\\Student Crud App\\FinalCrud\\Web API\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI.csproj",
         "packagesPath": "C:\\Users\\ShubhamVerma\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\Student Crud App\\Web API\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI\\obj\\",
+        "outputPath": "C:\\Github\\Student Crud App\\FinalCrud\\Web API\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ShubhamVerma\\AppData\\Roaming\\NuGet\\NuGet.Config",

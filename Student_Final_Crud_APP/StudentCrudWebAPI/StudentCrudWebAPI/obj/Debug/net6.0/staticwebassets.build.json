@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bJVxYWAysT+n5JjgAogwhFc5LdNjTbzY9NcJzOKrFhA=",
+  "Source": "StudentCrudWebAPI",
+  "BasePath": "_content/StudentCrudWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

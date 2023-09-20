@@ -1,0 +1,31 @@
+﻿@model StudentCrudApp.Models.StudentsMOD
+
+@{
+    ViewData["Title"] = "details";
+}
+<br />
+<div>
+    <h2>Student Details</h2><br />
+    <dl class="dl-horizontal">
+        <dt>Name</dt>
+        <dd>@Model.Name</dd>
+        <dt>Father Name</dt>
+        <dd>@Model.FatherName</dd>
+        <dt>Mother Name</dt>
+        <dd>@Model.MotherName</dd>
+        <dt>Gender</dt>
+        <dd>@Model.Gender</dd>
+        <dt>Date of Birth</dt>
+        <dd>@Model.DOB.ToShortDateString()</dd>
+        <dt>Aadhar No</dt>
+        <dd>@Model.AadharNo</dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.HiddenFor(model => model.Id)
+        <p>
+            <a class="btn btn-info" asp-action="Home">Back to List</a>
+        </p>
+    }
+</div>

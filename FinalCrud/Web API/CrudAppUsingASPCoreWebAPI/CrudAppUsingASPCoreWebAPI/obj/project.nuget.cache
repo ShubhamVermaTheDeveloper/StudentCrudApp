@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qM5hMJE0GK6D7cTZyVE39wc12SkqpN4e6LAVWGqvVU3J9zKpNpjUidE67KgJ/8duwPu6FGnVwrksPZ3pWdYEgw==",
+  "dgSpecHash": "ii3l03hwfKwNR0hbCc3F7v4PH0797YX6ApoDSGmZsUKAmaWZry5oZoZF7i9HLNsMc4sp5akc78eZ85QEzHY0zA==",
   "success": true,
-  "projectFilePath": "C:\\Github\\Student Crud App\\Web API\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI.csproj",
+  "projectFilePath": "C:\\Github\\Student Crud App\\FinalCrud\\Web API\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI\\CrudAppUsingASPCoreWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ShubhamVerma\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\ShubhamVerma\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

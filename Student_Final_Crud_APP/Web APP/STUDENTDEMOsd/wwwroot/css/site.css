@@ -1,0 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    font-family: "Trirong", serif;
+}
+
+/*input[type]:focus {
+    border: 3px solid blue;
+}
+
+
+input:focus{
+    border: 3px solid blue;
+}
+#border-color{
+    border: 3px solid blue;
+}
+
+
+
+select:focus {
+    outline-color: #007bff;*/ /* Change to your desired color */
+/*}
+
+.noNumbersInput {
+    border-radius: 10%;
+}*/
+
+
+input[type=text], input[type=number], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/*input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+*/
+   

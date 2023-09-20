@@ -1,0 +1,76 @@
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\StudentCrudWebAPI.exe
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\StudentCrudWebAPI.deps.json
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\StudentCrudWebAPI.runtimeconfig.json
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\StudentCrudWebAPI.dll
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\StudentCrudWebAPI.pdb
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.csproj.AssemblyReference.cache
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.AssemblyInfoInputs.cache
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.AssemblyInfo.cs
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.csproj.CoreCompileInputs.cache
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.StudentCrudWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentCrudWebAPI.props
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentCrudWebAPI.props
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentCrudWebAPI.props
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\scopedcss\bundle\StudentCrudWebAPI.styles.css
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.csproj.CopyComplete
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.dll
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\refint\StudentCrudWebAPI.dll
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.pdb
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.genruntimeconfig.cache
+C:\Github\ASP App\ASP-Web-App\Swagger\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\ref\StudentCrudWebAPI.dll
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\StudentCrudWebAPI.exe
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\StudentCrudWebAPI.deps.json
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\StudentCrudWebAPI.runtimeconfig.json
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\StudentCrudWebAPI.dll
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\StudentCrudWebAPI.pdb
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.csproj.AssemblyReference.cache
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.AssemblyInfoInputs.cache
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.AssemblyInfo.cs
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.csproj.CoreCompileInputs.cache
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.StudentCrudWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentCrudWebAPI.props
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentCrudWebAPI.props
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentCrudWebAPI.props
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\scopedcss\bundle\StudentCrudWebAPI.styles.css
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.csproj.CopyComplete
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.dll
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\refint\StudentCrudWebAPI.dll
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.pdb
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\StudentCrudWebAPI.genruntimeconfig.cache
+C:\Github\Student Crud App\Student_Final_Crud_APP\StudentCrudWebAPI\StudentCrudWebAPI\obj\Debug\net6.0\ref\StudentCrudWebAPI.dll
