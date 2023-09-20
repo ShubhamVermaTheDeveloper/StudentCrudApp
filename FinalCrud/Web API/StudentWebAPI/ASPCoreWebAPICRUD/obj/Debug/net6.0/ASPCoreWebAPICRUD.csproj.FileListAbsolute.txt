@@ -1,0 +1,884 @@
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.json
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.exe
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.deps.json
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.runtimeconfig.json
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.AssemblyReference.cache
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfoInputs.cache
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfo.cs
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CoreCompileInputs.cache
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreWebAPICRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreWebAPICRUD.props
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreWebAPICRUD.props
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreWebAPICRUD.props
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\scopedcss\bundle\ASPCoreWebAPICRUD.styles.css
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CopyComplete
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\refint\ASPCoreWebAPICRUD.dll
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.genruntimeconfig.cache
+C:\Users\DheerajPali\source\repos\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ref\ASPCoreWebAPICRUD.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.json
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.exe
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.deps.json
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.runtimeconfig.json
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Humanizer.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.AssemblyReference.cache
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfoInputs.cache
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfo.cs
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CoreCompileInputs.cache
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreWebAPICRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreWebAPICRUD.props
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreWebAPICRUD.props
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreWebAPICRUD.props
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\scopedcss\bundle\ASPCoreWebAPICRUD.styles.css
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CopyComplete
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\refint\ASPCoreWebAPICRUD.dll
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.genruntimeconfig.cache
+C:\study Material\Practice\StudentDemo\DemoStudents (5)\ASPCoreWebAPICRUD\ASPCoreWebAPICRUD\obj\Debug\net6.0\ref\ASPCoreWebAPICRUD.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.json
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.exe
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.deps.json
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.runtimeconfig.json
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Humanizer.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.AssemblyReference.cache
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfoInputs.cache
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfo.cs
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CoreCompileInputs.cache
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreWebAPICRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreWebAPICRUD.props
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreWebAPICRUD.props
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreWebAPICRUD.props
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\scopedcss\bundle\ASPCoreWebAPICRUD.styles.css
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CopyComplete
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\refint\ASPCoreWebAPICRUD.dll
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.genruntimeconfig.cache
+C:\study Material\Final\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ref\ASPCoreWebAPICRUD.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.json
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.exe
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.deps.json
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.runtimeconfig.json
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Humanizer.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.AssemblyReference.cache
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfoInputs.cache
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfo.cs
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CoreCompileInputs.cache
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreWebAPICRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreWebAPICRUD.props
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreWebAPICRUD.props
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreWebAPICRUD.props
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\scopedcss\bundle\ASPCoreWebAPICRUD.styles.css
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CopyComplete
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\refint\ASPCoreWebAPICRUD.dll
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.genruntimeconfig.cache
+C:\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ref\ASPCoreWebAPICRUD.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.json
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.exe
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.deps.json
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.runtimeconfig.json
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Humanizer.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.AssemblyReference.cache
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfoInputs.cache
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfo.cs
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CoreCompileInputs.cache
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreWebAPICRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreWebAPICRUD.props
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreWebAPICRUD.props
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreWebAPICRUD.props
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\scopedcss\bundle\ASPCoreWebAPICRUD.styles.css
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CopyComplete
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\refint\ASPCoreWebAPICRUD.dll
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.genruntimeconfig.cache
+C:\study Material\Submitted task\Task Submission\Task Submission\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ref\ASPCoreWebAPICRUD.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.json
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.exe
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.deps.json
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.runtimeconfig.json
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Humanizer.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.AssemblyReference.cache
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfoInputs.cache
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfo.cs
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CoreCompileInputs.cache
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreWebAPICRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreWebAPICRUD.props
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreWebAPICRUD.props
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreWebAPICRUD.props
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\scopedcss\bundle\ASPCoreWebAPICRUD.styles.css
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CopyComplete
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\refint\ASPCoreWebAPICRUD.dll
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.genruntimeconfig.cache
+C:\study Material\changes version\Task Submission3\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ref\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.json
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.exe
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.deps.json
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.runtimeconfig.json
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Humanizer.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.AssemblyReference.cache
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfoInputs.cache
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfo.cs
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CoreCompileInputs.cache
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreWebAPICRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\scopedcss\bundle\ASPCoreWebAPICRUD.styles.css
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CopyComplete
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\refint\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.genruntimeconfig.cache
+C:\Github\ASP App\ASP-Web-App\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ref\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.json
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.exe
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.deps.json
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.runtimeconfig.json
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Humanizer.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.AssemblyReference.cache
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfoInputs.cache
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfo.cs
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CoreCompileInputs.cache
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreWebAPICRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\scopedcss\bundle\ASPCoreWebAPICRUD.styles.css
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CopyComplete
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\refint\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.genruntimeconfig.cache
+C:\Github\ASP App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ref\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.json
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.exe
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.deps.json
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.runtimeconfig.json
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Humanizer.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.AssemblyReference.cache
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfoInputs.cache
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfo.cs
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CoreCompileInputs.cache
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreWebAPICRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\scopedcss\bundle\ASPCoreWebAPICRUD.styles.css
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CopyComplete
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\refint\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.genruntimeconfig.cache
+C:\Github\ASP App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ref\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.json
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.exe
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.deps.json
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.runtimeconfig.json
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Humanizer.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.AssemblyReference.cache
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfoInputs.cache
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfo.cs
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CoreCompileInputs.cache
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreWebAPICRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\scopedcss\bundle\ASPCoreWebAPICRUD.styles.css
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CopyComplete
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\refint\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.genruntimeconfig.cache
+C:\Github\ASP App\ASP-Web-App\Final Project\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ref\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.json
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.exe
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.deps.json
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.runtimeconfig.json
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Humanizer.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.AssemblyReference.cache
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfoInputs.cache
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfo.cs
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CoreCompileInputs.cache
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreWebAPICRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\scopedcss\bundle\ASPCoreWebAPICRUD.styles.css
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CopyComplete
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\refint\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.genruntimeconfig.cache
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project1\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ref\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.json
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.exe
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.deps.json
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.runtimeconfig.json
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Humanizer.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.AssemblyReference.cache
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfoInputs.cache
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfo.cs
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CoreCompileInputs.cache
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreWebAPICRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreWebAPICRUD.props
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\scopedcss\bundle\ASPCoreWebAPICRUD.styles.css
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CopyComplete
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\refint\ASPCoreWebAPICRUD.dll
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.genruntimeconfig.cache
+C:\Github\ASP App\ASP-Web-App\FinalProject\Final Project2\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ref\ASPCoreWebAPICRUD.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\appsettings.json
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.exe
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.deps.json
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.runtimeconfig.json
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Humanizer.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.AssemblyReference.cache
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfoInputs.cache
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.AssemblyInfo.cs
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CoreCompileInputs.cache
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.ASPCoreWebAPICRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCoreWebAPICRUD.props
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreWebAPICRUD.props
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCoreWebAPICRUD.props
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\scopedcss\bundle\ASPCoreWebAPICRUD.styles.css
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.csproj.CopyComplete
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\refint\ASPCoreWebAPICRUD.dll
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.pdb
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ASPCoreWebAPICRUD.genruntimeconfig.cache
+C:\Github\Student Crud App\Web API\StudentWebAPI\ASPCoreWebAPICRUD\obj\Debug\net6.0\ref\ASPCoreWebAPICRUD.dll
